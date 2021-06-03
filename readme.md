@@ -1,4 +1,4 @@
-#🚀Desafio Front-end Jr
+# Desafio Front-end Jr🚀
 
 ### Desafio
 Nesse desafio você precisa desenvolver o [Layout em .PSD](https://drive.google.com/file/d/1sVVfLJJS17uCaReGIl6XvqWxzKmPEP7O/view?usp=sharing) proposto com os seguintes itens abaixo:
