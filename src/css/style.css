@@ -417,6 +417,7 @@ body header {
   margin-bottom: 51px;
 }
 .card-dest {
+  margin-right: 7px;
   height: 307.07px;
   display: flex;
   align-items: center;
@@ -429,7 +430,11 @@ body header {
 }
 
 .dist-img {
+  height: 57px;
   margin-bottom: 44px;
+}
+.dist-img ~ div {
+  width: 100%;
 }
 
 .dest-info-more {
@@ -441,7 +446,9 @@ body header {
   text-align: center;
 }
 .btn-conhecer.a {
+  border-radius: 15px;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .news-title {
