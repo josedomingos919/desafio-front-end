@@ -19,6 +19,7 @@ a {
   --fundo1: #ebebeb;
   --btn-color: #f7b600;
   --blue-color: #00529c;
+  --footer-text-color: #eaeaea;
 }
 
 /*Body*/
@@ -412,4 +413,81 @@ body header {
   margin-bottom: 20px;
   font-size: 20px;
   color: #328fcb;
+}
+
+.sec-eclisse.r {
+  background-color: #eaeaea;
+  height: 213px;
+}
+
+.sec-eclisse.footer {
+  background-color: #00529c;
+  height: 33px;
+}
+
+.sec-div-eclisse.t {
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}
+
+.lbl-copy-right {
+  font-size: 12px;
+  color: var(--footer-text-color);
+}
+
+.spn-des {
+  margin-right: 8px;
+  color: var(--footer-text-color);
+}
+
+.img-logo-footer {
+  height: 60px;
+}
+
+.title-label-footer {
+  color: var(--blue-color);
+  font-size: 16px;
+}
+
+.line-footer {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.line-footer img {
+  margin-right: 15px;
+}
+
+.item-footer {
+  margin-bottom: 44px;
+}
+
+.lbl-dark,
+.icon-tel-lbl {
+  font-size: 20px;
+  color: #606060;
+}
+
+.lbl-dark {
+  font-size: 18px;
+}
+
+.spn-phone {
+  font-size: 16px;
+}
+
+.item-social.t.a {
+  margin-bottom: 137px;
+}
+
+.sec-div-eclisse.t.a {
+  padding-top: 44px;
+}
+
+.btn-conhecer.t.a {
+  margin: 0px;
+  margin-top: 40px;
+  white-space: nowrap;
 }
