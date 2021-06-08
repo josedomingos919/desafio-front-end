@@ -179,6 +179,7 @@ body header {
 }
 
 .img-slider-container {
+  transition: 0.1s;
   transform: scale(1.6);
   width: 100%;
   height: 100%;
@@ -231,6 +232,7 @@ body header {
 }
 
 .black-form p {
+  line-height: 35px;
   font-style: italic;
   font-size: 17px;
 }
@@ -306,6 +308,7 @@ body header {
   text-align: left;
   width: 230px;
   font-size: 17px;
+  color: #1d190f;
 }
 
 .back-form1 {
@@ -373,6 +376,7 @@ body header {
 }
 
 .p-info {
+  color: #606060;
   margin-top: 23px;
   font-size: 30px;
   margin-bottom: 53px;
@@ -385,6 +389,7 @@ body header {
 }
 
 .art-info-1 p {
+  color: #343434;
   font-size: 17px;
   text-align: left;
 }
